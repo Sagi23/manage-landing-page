@@ -1,5 +1,5 @@
 # manage-landing-page
-### Description
+### Description:
 
 manage landing page.  
 The site is responsive to all devices.
